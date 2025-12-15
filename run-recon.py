@@ -22,7 +22,7 @@ a.load_inputs(verbose=99)
 
 #run the algoithm
 recipe_path = f'{data_dir}/rec.txt'
-a.run_recon(sub_tag='b', recipe=recipe_path, verbose=99)
+a.run_recon(sub_tag='b', recipe=recipe_path, verbose=99, overwrite=1)
 
 
 

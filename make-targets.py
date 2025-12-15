@@ -9,7 +9,7 @@ data_dir = './data'
 #tag for a set of algorithms
 tag = 'lyso-test'
 # cif file to generate target intensity
-cif_path = f'{data_dir}/lysozyme-sf.cif'
+cif_path = f'{data_dir}/193L-sf.cif'
 
 
 #open the algorithm handler
